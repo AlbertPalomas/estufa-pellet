@@ -1,0 +1,1 @@
+Programa de control per a una estufa de pellet. El microcontrolador es un PIC18F4550.
